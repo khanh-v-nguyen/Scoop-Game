@@ -1,0 +1,2 @@
+images/skypic3.png
+images/beach.png
